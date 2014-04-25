@@ -1,0 +1,12 @@
+{
+    "name": "neuralquery/minit-yui",
+    "description": "Adds YUI Compressor minification to the Minit WordPress plugin by Kaspars Dambis",
+    "keywords": ["WordPress", "css", "js", "combine", "minify", "concatenate", "optimization", "performance", "speed"],
+    "homepage": "https://github.com/neuralquery/minit-yui",
+    "type": "wordpress-plugin",
+    "authors": [
+        {
+            "name": "bjornjohansen"
+        }
+    ]
+}
